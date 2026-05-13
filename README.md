@@ -135,3 +135,10 @@ Install dependencies and start the dev server:
 npm install
 npm run dev
 ```
+
+---
+
+## Author
+
+- GitHub - [@chryspenalber](https://github.com/chryspenalber)
+- LinkedIn - [Chrystiana Penalber](https://www.linkedin.com/in/chrystiana-penalber/)
