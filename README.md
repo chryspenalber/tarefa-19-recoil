@@ -5,7 +5,7 @@
 ## Versão em Português
 
 # To-do List — React + Recoil
-**Projeto desenvolvido por Chrys Penalber**
+**Projeto desenvolvido por Chrys Penalber para o curso de Engenheiro FrontEnd da EBAC**
 
 Aplicação simples de gerenciamento de tarefas (To‑do List) construída com **React** e **Recoil** para demonstração de estado global usando átomos e seletores.
 
@@ -81,7 +81,7 @@ npm run dev
 ## English Version
 
 # To-do List — React + Recoil
-**Project developed by Chrys Penalber**
+**Project developed by Chrys Penalber for the EBAC Front-End Engineer course**
 
 Simple task management application (To‑do List) built with **React** and **Recoil** demonstrating global state using atoms and selectors.
 
@@ -135,14 +135,3 @@ Install dependencies and start the dev server:
 npm install
 npm run dev
 ```
-
-Open the address provided by Vite (usually `http://localhost:5173`).
-
-
----
-
-## Author
-
-- GitHub - [@chryspenalber](https://github.com/chryspenalber)
-- LinkedIn - [Chrystiana Penalber](https://www.linkedin.com/in/chrystiana-penalber/)
-
